@@ -1,46 +1,83 @@
-<img src="your-banner.gif or image" width="100%" />
+<h1 align="center">✨ Hey there! I'm <span style="color:#14f774;">Vaibhav Subhash Kharate</span> 👋</h1>
+<h3 align="center">🚀 Front-End Developer | Tech Explorer | Final Year CSE Student from India 🇮🇳</h3>
 
-<h2 align="center">Hi, I'm Vaibhav 👋</h2>
-<h3 align="center">Front-End Developer | ML Enthusiast | Open Source Contributor</h3>
-
----
-
-### 🧑‍💻 About Me
-I'm a passionate developer from India 🇮🇳 who loves crafting front-end experiences and diving into Machine Learning. 
-
-- 🔭 I’m currently working on **Volunteer Management Platform**
-- 🌱 I’m currently learning **Full Stack Development & DSA**
-- 💬 Ask me about **Web Dev, ML, or Open Source**
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/vaibhavkharate)
-
----
-
-### 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
----
-
-### 📈 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavkharate&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkharate&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+beautiful+UIs+with+React.js;Leveling+up+daily+💻;Turning+ideas+into+reality🚀;&center=true&width=500&height=45&color=14f774&vCenter=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14f774&height=100&section=header"/>
 </p>
 
 ---
 
-### ✨ Fun Projects
-- 🎯 [Volunteer Management Platform](https://github.com/vaibhavkharate/volunteer-management-platform)
-- 🍷 [Wine Quality Prediction](https://github.com/vaibhavkharate/workshop1)
-- 🌸 [Iris Flower Classification](https://github.com/vaibhavkharate/workshop1)
-- 🩺 [Diabetes Prediction](https://github.com/vaibhavkharate/Task3)
+## 🌟 About Me
+
+- 🎓 Final Year Computer Science & Engineering Student  
+- 💻 Passionate about building **responsive, dynamic**, and **aesthetic** web apps  
+- 🚘 Currently developing **DriveEase** – a modern car rental platform  
+- 🌱 Learning **React.js**, **Tailwind CSS**, **Next.js**, and improving **DSA (Java)**  
+- ✍️ I love sharing knowledge & creating sleek UI experiences  
+- 📍 Based in **Nagpur, Maharashtra**  
+- 📫 Reach me: **vaibhav.s.kharate@gmail.com**
 
 ---
 
-### 💬 Quote of the Day
-> _“Code is like humor. When you have to explain it, it’s bad.”_
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs,nodejs,git,github,vscode,firebase,figma" />
+</p>
 
 ---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkharate&show_icons=true&theme=tokyonight&border_radius=10" width="47%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkharate&theme=tokyonight&border_radius=10" width="47%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkharate&layout=compact&theme=tokyonight&langs_count=10" width="50%"/>
+</p>
+
+---
+
+## 💼 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🚘 **DriveEase** | Car Rental Web App (UI + functionality) | React, Tailwind, Firebase |
+| 🌐 **Portfolio Website** | My personal portfolio website | React, Tailwind |
+| 📂 **More on GitHub →** | [Check out my repos](https://github.com/vaibhavkharate?tab=repositories) | GitHub |
+
+---
+
+## 🎯 2025 Goals
+
+- 🎯 Get placed as a **React/Full Stack Developer**
+- 🧩 Sharpen **DSA** skills in **Java**
+- 🧑‍💻 Contribute to **Open Source**
+- ✍️ Write dev blogs & share frontend tips
+- 🌍 Collaborate on meaningful projects & grow my network
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:vaibhav.s.kharate@gmail.com"><img src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+  <a href="https://github.com/vaibhavkharate"><img src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+  <a href="https://www.linkedin.com/in/vaibhavkharate/"><img src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14f774&height=100&section=footer"/>
+</p>
