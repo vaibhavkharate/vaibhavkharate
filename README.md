@@ -62,18 +62,22 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## 🎓 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkharate&show_icons=true&theme=radical&count_private=true" alt="vaibhavkharate" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavkharate&theme=radical" alt="vaibhavkharate" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavkharate&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavkharate&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" height="150"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavkharate&theme=monokai" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavkharate&layout=compact&theme=tokyonight&langs_count=10" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKharate&layout=compact&theme=radical" width="35%" />
 </p>
+
+
 
 <br />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
