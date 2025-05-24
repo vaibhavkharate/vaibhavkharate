@@ -74,7 +74,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/vaibhavkharate/vaibhavkharate/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/vaibhavkharate/vaibhavkharate/snake.svg" alt="Snake animation" />
 
 ###
 
