@@ -74,6 +74,11 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/vaibhavkharate/vaibhavkharate/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
