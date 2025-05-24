@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKharate&layout=compact&theme=radical" width="35%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKharate&layout=compact&theme=radical"/>
 </p>
 
 
@@ -94,11 +94,6 @@
 
 <br />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<div align="center">
-	
-![snake gif](https://github.com/vaibhavkharate/vaibhavkharate/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
