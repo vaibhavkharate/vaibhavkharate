@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&width=1000&section=header&text=Welcome%20to%20My%20GitHub..!&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14F774&height=200&width=1000&section=header&text=Welcome%20to%20My%20GitHub..!&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header"/>
 </p>
 <!-- Bio -->
 <h3 align="center">
@@ -100,6 +100,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=200&section=footer&text=Thanks%20for%20visiting%20my%20GitHub..!&fontColor=ffffff&fontSize=30&animation=fadeOut"
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14F774&height=200&section=footer&text=Thanks%20for%20visiting%20my%20GitHub..!&fontColor=ffffff&fontSize=30&animation=fadeOut"
 </p>
 
