@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="banner" width="600" height="350" />
 </div>
@@ -10,7 +11,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14F774&height=200&width=1000&section=header&text=Welcome%20to%20My%20GitHub..!&fontColor=ffffff&fontSize=40&animation=fadeIn" alt="header"/>
 </p>
-<!-- Bio -->
 <h3 align="center">
   I'm a passionate Full Stack Developer from India, deeply interested in building impactful web experiences.<br/>
   I enjoy solving real-world problems, contributing to open-source, and turning creative ideas into working products. 💡
@@ -20,19 +20,19 @@
 
 ## 🌟 About Me
 
-- 🎓 Final Year Computer Science & Engineering Student  
-- 🌐 Passionate about **web development**, **machine learning**, and **clean code**  
-- 📦 Currently building **V-Sena** – a Volunteer Management Platform for NGOs  
-- 🧠 Learning **React.js**, **MongoDB**, and brushing up on **DSA (C++/Java)**  
-- 🧑‍🏫 Always eager to collaborate, learn, and contribute to real-world projects  
-- 📍 Based in **Nagpur, Maharashtra**  
+- 🎓 Final Year Computer Science & Engineering Student
+- 🌐 Passionate about **web development**, **machine learning**, and **clean code**
+- 📦 Currently building **V-Sena** – a Volunteer Management Platform for NGOs
+- 🧠 Learning **React.js**, **MongoDB**, and brushing up on **DSA (C++/Java)**
+- 🧑‍🏫 Always eager to collaborate, learn, and contribute to real-world projects
+- 📍 Based in **Nagpur, Maharashtra**
 - 📫 Reach me: **vaibhavskharate@gmail.com**
 - 👨‍💻 All of my projects are available at **https://vaibhav-portfolio-tau.vercel.app/**
 
 <br />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## ⚙️ Tech Stack  
+## ⚙️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,python,cpp,git,github,vscode" />
 </p>
@@ -77,8 +77,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavKharate&layout=compact&theme=radical"/>
 </p>
 
-
-
+<p align="center">
+  <img src="https://github.com/vaibhavkharate/vaibhavkharate/.github/workflows/snake.yml" alt="GitHub Snake" />
+</p>
 <br />
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -102,4 +103,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14F774&height=200&section=footer&text=Thanks%20for%20visiting%20my%20GitHub..!&fontColor=ffffff&fontSize=30&animation=fadeOut"
 </p>
-
